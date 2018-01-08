@@ -181,5 +181,7 @@ function Player(videoID, buttonID, adContainerID) {
 // Wire UI element references and UI event listeners.
 var player1 = new Player('contentElement-1', 'playButton-1', 'adContainer-1');
 var player2 = new Player('contentElement-2', 'playButton-2', 'adContainer-2');
+var player3 = new Player('contentElement-3', 'playButton-3', 'adContainer-3');
 player1.init();
 player2.init();
+player3.init();
