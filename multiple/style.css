@@ -12,6 +12,11 @@
   height: 360px;
 }
 
+/* For ad contaienr debugging */
+.adContainer {
+  left: 100px !important;
+}
+
 .contentElement {
   width: 640px;
   height: 360px;
